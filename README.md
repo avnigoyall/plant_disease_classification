@@ -1,4 +1,4 @@
-# plant_disease_classification
+# Plant Disease Classification
 This project is aimed to classify plant disease from leaf images.
 
 ## Features
